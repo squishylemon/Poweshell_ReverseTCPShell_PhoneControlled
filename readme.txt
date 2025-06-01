@@ -1,4 +1,3 @@
-```markdown
 # Reverse TCP PowerShell Shell via BadUSB
 
 A simple PowerShell-based reverse TCP shell designed to be executed via a BadUSB device, connecting back to your Android device running the **rtcp_application** APK. This project was built for educational and testing purposes only.
