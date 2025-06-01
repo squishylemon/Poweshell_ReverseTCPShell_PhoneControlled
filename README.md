@@ -71,18 +71,3 @@ This software is intended for **educational use only** on devices **you own** or
 **Do not use this on any third-party systems without written permission.**
 
 ---
-
-## 📂 Files in This Repo
-
-| File                 | Description                               |
-|----------------------|-------------------------------------------|
-| `script.ps1`         | The main reverse TCP PowerShell payload   |
-| `README.md`          | Project documentation (this file)         |
-| `rtcp_application.apk` | Android app listener (host)            |
-
----
-
-## 📞 Contact
-
-This project is a personal experiment and has no formal support. For educational queries or testing insights, feel free to open an issue.
-```
